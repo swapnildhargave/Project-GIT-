@@ -1,8 +1,1 @@
-git init
-git status 
-git add 
-git commit 
-git restore 
-git remote add origin https://github.com/swapnildhargave/Project-GIT-.git
-git remote set-url origin 
-git push origin master  
+
